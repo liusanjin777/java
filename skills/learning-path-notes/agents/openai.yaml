@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习路径笔记"
+  short_description: "按学习路径生成结构化 Markdown 学习笔记，方便复习"
+  default_prompt: "用 $learning-path-notes 根据我的学习路径生成一份 Markdown 学习笔记。"
