@@ -14,6 +14,7 @@
 notes/      # Markdown 学习笔记
 skills/     # 项目 Codex skills
 out/        # 编译产物，不提交
+assets/     # 存放资源文件，如图片、音频等
 ```
 
 ## 学习笔记
@@ -23,6 +24,7 @@ out/        # 编译产物，不提交
 - [修饰符](notes/修饰符.md)
 - [基本类型和引用类型](notes/基本类型和引用类型.md)
 - [输入输出流](notes/输入输出流.md)
+- [HTTP 服务器](notes/HTTP服务器.md)
 
 ## 运行示例
 
